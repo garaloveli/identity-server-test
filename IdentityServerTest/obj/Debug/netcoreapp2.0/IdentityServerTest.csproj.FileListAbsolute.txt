@@ -1,0 +1,8 @@
+C:\Users\ozegarra\source\repos\IdentityServerTest\bin\Debug\netcoreapp2.0\IdentityServerTest.deps.json
+C:\Users\ozegarra\source\repos\IdentityServerTest\bin\Debug\netcoreapp2.0\IdentityServerTest.runtimeconfig.json
+C:\Users\ozegarra\source\repos\IdentityServerTest\bin\Debug\netcoreapp2.0\IdentityServerTest.runtimeconfig.dev.json
+C:\Users\ozegarra\source\repos\IdentityServerTest\bin\Debug\netcoreapp2.0\IdentityServerTest.dll
+C:\Users\ozegarra\source\repos\IdentityServerTest\obj\Debug\netcoreapp2.0\IdentityServerTest.csprojResolveAssemblyReference.cache
+C:\Users\ozegarra\source\repos\IdentityServerTest\obj\Debug\netcoreapp2.0\IdentityServerTest.csproj.CoreCompileInputs.cache
+C:\Users\ozegarra\source\repos\IdentityServerTest\obj\Debug\netcoreapp2.0\IdentityServerTest.AssemblyInfoInputs.cache
+C:\Users\ozegarra\source\repos\IdentityServerTest\obj\Debug\netcoreapp2.0\IdentityServerTest.AssemblyInfo.cs
